@@ -293,7 +293,6 @@ for th in THEMES:
     banner_phone(th)
     for phone in (False, True):
         header("tools", "Selected work", "Tools and test evidence.", th, phone=phone)
-        header("background", "Background", "How I work.", th, mark=RED, phone=phone)
     tool_card("ecommerce", th, fill=CARD_BLUE, fg="#ffffff", rule="#ffffff", mark=YELLOW, mark_shape="circle",
               label="Conversion tracking audit", title="Ecommerce tracking audit",
               body="Walks a real store from homepage to checkout and records which events reached GA4 and Meta, not just which ones fired on the page.",

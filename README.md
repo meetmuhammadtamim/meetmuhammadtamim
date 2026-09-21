@@ -30,14 +30,3 @@
 <p><a href="https://github.com/meetmuhammadtamim/ecommerce-tracking-audit"><b>ecommerce-tracking-audit</b></a>: walks a real store from homepage to checkout in a browser and records which events reached GA4 and Meta. In testing it found GA4 events that looked fine in the dataLayer while no GA4 request was ever sent.</p>
 
 <p><a href="https://github.com/meetmuhammadtamim/sitemap-site-downloader"><b>sitemap-site-downloader</b></a>: pulls every page in a sitemap into one searchable local copy, for finding information that conflicts across a large site.</p>
-
-<br>
-
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/head-background-phone-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/head-background-phone-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/head-background-dark.svg">
-  <img src="assets/head-background-light.svg" width="100%" alt="Background: How I work.">
-</picture>
-
-<p>I studied Computer Science and Engineering and worked in web development. That helps most when the problem is not in the marketing tools at all: a broken data layer, an event that will not fire, a script fighting with another script. I can go into the website and sort that out instead of passing it to someone else.</p>
