@@ -8,18 +8,9 @@
 <p>I implement and debug conversion tracking in GA4, Google Tag Manager, Google Ads and Meta, and I check what each platform actually receives, not just what fired on the page.</p>
 
 <p>
-  <a href="https://muhammadtamim.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg">
-    <img src="assets/btn-website-light.svg" height="46" alt="Website: muhammadtamim.com">
-  </picture></a>&nbsp;
-  <a href="https://www.linkedin.com/in/meetmuhammadtamim/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
-    <img src="assets/btn-linkedin-light.svg" height="46" alt="LinkedIn">
-  </picture></a>&nbsp;
-  <a href="https://www.facebook.com/meetmuhammadtamim/"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-facebook-dark.svg">
-    <img src="assets/btn-facebook-light.svg" height="46" alt="Facebook">
-  </picture></a>
+  <a href="https://muhammadtamim.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-website-dark.svg"><img src="assets/btn-website-light.svg" height="46" alt="Website: muhammadtamim.com"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/meetmuhammadtamim/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="46" alt="LinkedIn"></picture></a>&nbsp;
+  <a href="https://www.facebook.com/meetmuhammadtamim/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-facebook-dark.svg"><img src="assets/btn-facebook-light.svg" height="46" alt="Facebook"></picture></a>
 </p>
 
 <br>
@@ -32,14 +23,8 @@
 </picture>
 
 <p>
-  <a href="https://github.com/meetmuhammadtamim/ecommerce-tracking-audit"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-ecommerce-dark.svg">
-    <img src="assets/tool-ecommerce-light.svg" alt="Ecommerce tracking audit: walks a store to checkout and records which events reached GA4 and Meta. 4 stages checked, 3 Meta events confirmed, 3 GA4 requests missing.">
-  </picture></a>
-  <a href="https://github.com/meetmuhammadtamim/sitemap-site-downloader"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tool-sitemap-dark.svg">
-    <img src="assets/tool-sitemap-light.svg" alt="Sitemap website downloader: pulls every sitemap page into one searchable local copy. 145 URLs found, 144 pages saved, 993 assets saved.">
-  </picture></a>
+  <a href="https://github.com/meetmuhammadtamim/ecommerce-tracking-audit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tool-ecommerce-dark.svg"><img src="assets/tool-ecommerce-light.svg" alt="Ecommerce tracking audit: walks a store to checkout and records which events reached GA4 and Meta. 4 stages checked, 3 Meta events confirmed, 3 GA4 requests missing."></picture></a>
+  <a href="https://github.com/meetmuhammadtamim/sitemap-site-downloader"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tool-sitemap-dark.svg"><img src="assets/tool-sitemap-light.svg" alt="Sitemap website downloader: pulls every sitemap page into one searchable local copy. 145 URLs found, 144 pages saved, 993 assets saved."></picture></a>
 </p>
 
 <p><a href="https://github.com/meetmuhammadtamim/ecommerce-tracking-audit"><b>ecommerce-tracking-audit</b></a>: walks a real store from homepage to checkout in a browser and records which events reached GA4 and Meta. In testing it found GA4 events that looked fine in the dataLayer while no GA4 request was ever sent.</p>
